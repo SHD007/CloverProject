@@ -10,6 +10,18 @@ HTML, CSS, JavaScript, jQuery, JSON, Ajax, BootStrap4.0,  Java, Spring4, Spring 
 ##  Clover 서비스 소개 
 
 
-### 1 메인페이지
+### 1. 메인페이지
 
 ![1](https://user-images.githubusercontent.com/90361160/150639712-4e867405-e1bd-420f-96cf-ad32c6cc3442.png)
+
+### 2. QR 정보입력
+![2](https://user-images.githubusercontent.com/90361160/150640076-3d52b10b-f0f0-4299-9021-09d03bb718a1.png)
+
+
+### 3. QR 생성
+![3](https://user-images.githubusercontent.com/90361160/150640099-9d3417f5-9c28-4f6e-8b7e-5a438fb93fcb.png)
+
+### 4. QR 스캔
+
+### 5. 가족 찾기 게시판
+![5](https://user-images.githubusercontent.com/90361160/150640124-4017e49f-5b4b-4b58-b20f-63488e58ff44.png)
