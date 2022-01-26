@@ -23,5 +23,9 @@ HTML, CSS, JavaScript, jQuery, JSON, Ajax, BootStrap4.0,  Java, Spring4, Spring 
 
 ### 4. QR 스캔
 
+![KakaoTalk_20220126_135317643_01](https://user-images.githubusercontent.com/90361160/151111877-e46f4609-549c-47a2-a9ef-9c75c818b686.jpg)
+![KakaoTalk_20220126_135317643_02](https://user-images.githubusercontent.com/90361160/151111886-644adaf3-272a-45e1-8568-4eff961bac44.jpg)
+
+
 ### 5. 가족 찾기 게시판
 ![5](https://user-images.githubusercontent.com/90361160/150640124-4017e49f-5b4b-4b58-b20f-63488e58ff44.png)
