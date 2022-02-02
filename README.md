@@ -27,13 +27,14 @@ HTML, CSS, JavaScript, jQuery, JSON, Ajax, BootStrap4.0,  Java, Spring4, Spring 
 ![3](https://user-images.githubusercontent.com/90361160/150640099-9d3417f5-9c28-4f6e-8b7e-5a438fb93fcb.png)
 
 ### 4. QR 스캔
-> 자신의 가족에게 해당 qr 뱃지를 달고 다른 사람들이 내 가족을 찾아 qr을 스캔하면(네이버 qt 스캔 추천) 2번에서 입력한 정보를 확인 할 수 있다.
+> 자신의 가족에게 해당 qr 뱃지를 달고 다른 사람들이 내 가족을 찾아 qr을 스캔하면(네이버 qt 스캔 추천) 2번에서 입력한 정보를 확인 할 수 있습니다.
+
 ![KakaoTalk_20220126_135317643_01](https://user-images.githubusercontent.com/90361160/151111877-e46f4609-549c-47a2-a9ef-9c75c818b686.jpg)
 ![KakaoTalk_20220126_135317643](https://user-images.githubusercontent.com/90361160/151112275-c4986ccb-161a-46a7-9fd9-750610cbc898.jpg)
 
 
 
 ### 5. 가족 찾기 게시판
-> 내 가족이 실종이 되면 해당 게시판에 잃어 버린 장소와 qr, 기타 다른 정보를 입력해 실종신고를 할 수 있으면 다른 사름은 실종자 발견 신고를 해당 게시물 댓글에 지도로 표시하면서 신고 할 수 있다
+> 내 가족이 실종이 되면 해당 게시판에 잃어 버린 장소와 qr, 기타 다른 정보를 입력해 실종신고를 할 수 있으면 다른 사름은 실종자 발견 신고를 해당 게시물 댓글에 지도로 표시하면서 신고 할 수 있습니다
 
 ![5](https://user-images.githubusercontent.com/90361160/150640124-4017e49f-5b4b-4b58-b20f-63488e58ff44.png)
