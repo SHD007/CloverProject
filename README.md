@@ -17,6 +17,7 @@ HTML, CSS, JavaScript, jQuery, JSON, Ajax, BootStrap4.0,  Java, Spring4, Spring 
 
 ### 2. QR 정보입력
 > 자신의 가족(치매노인, 반려동물, 아이)에 대한 정보를 입력 합니다.
+
 ![2](https://user-images.githubusercontent.com/90361160/150640076-3d52b10b-f0f0-4299-9021-09d03bb718a1.png)
 
 
