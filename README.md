@@ -1,12 +1,14 @@
-# 기획의도
-![image](https://user-images.githubusercontent.com/90361160/154867546-8cac43e8-982e-48ba-b856-53dfe2ab5b15.png)
+
 
 
 # 프로젝트명 : Clover (가족 찾기 QR Service)  
 > 개요 : 
 자신의 소중한 가족(치매노인, 반려동물, 아동)을 잃어 버렸을 때 개인정보를 담은 QR을 인식표로 만들어서, 개인이 직접 다운받을 수 있게 만들었습니다. 그리고 이 QR을 사용해 가족을 찾아주고, 찾는 서비스를 구현해보았습니다.
 
-
+# 기획의도
+![image](https://user-images.githubusercontent.com/90361160/154867546-8cac43e8-982e-48ba-b856-53dfe2ab5b15.png)
+점차 늘어나는 치매 걸리신 부모님, 국가 미래인 어린 아이들, 이제는 가족이라 말할 수있는 반려동물들... 우리의 소중한 가족들이 실종되도 바로 찾을 수 있게 누구나 만들 수 있는 
+Qr 생성기 플랫폼을 만들었습니다.
 
 ## 사용 기술 및 라이브러리 :
 HTML, CSS, JavaScript, jQuery, JSON, Ajax, BootStrap4.0,  Java, Spring4, Spring Boot, Suite(STS4), Spring Security, Maven, JSTL,  JDBC, My SQL, lombok, Zxing library
