@@ -13,7 +13,8 @@
 Qr 생성기 플랫폼을 만들었습니다.
 
 # 플로우 차트
-![image](https://user-images.githubusercontent.com/90361160/154867831-f2f1fff9-3ceb-4f6f-a2dc-30be25db0b5a.png)
+![image](https://user-images.githubusercontent.com/90361160/154936144-e3477830-597d-4bf0-868f-271199f7f531.png)
+
 
 # ERD
 ![image](https://user-images.githubusercontent.com/90361160/154867848-160f2b1c-1b92-47a7-bd4f-52d95c49a039.png)
