@@ -11,6 +11,7 @@
 * Request Mapping을 이용한 URL에 따른 handler를 찾아 Qr정보입력, 수정 다운로드가 자유롭게 가능하게 구현 
 * Spring Validation을 이용한 Parameter Validation으로 필수정보입력 검증 구현
 * 전체 스키마 구성
+* QR파트 프론트 javascript, jquery 구성
 
 # 기획의도
 ![image](https://user-images.githubusercontent.com/90361160/154867546-8cac43e8-982e-48ba-b856-53dfe2ab5b15.png)
