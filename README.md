@@ -6,8 +6,8 @@
 자신의 소중한 가족(치매노인, 반려동물, 아동)을 잃어 버렸을 때 개인정보를 담은 QR을 인식표로 만들어서, 개인이 직접 다운받을 수 있게 만들었습니다. 그리고 이 QR을 사용해 가족을 찾아주고, 찾는 서비스를 구현해보았습니다.
 
 # 본인 파트 : 
-Zxing Qr open api를 이용한 MVC패턴 QR 생성기구현 
-Mybatis를 이용한 ORM 객체 관계형 데이터 베이스 Mapping으로 사용자가 Qr에 입력한 정보를 데이터베이스에 간단하게 저장 국현
+* Zxing Qr open api를 이용한 MVC패턴 QR 생성기구현 
+* Mybatis를 이용한 ORM 객체 관계형 데이터 베이스 Mapping으로 사용자가 Qr에 입력한 정보를 데이터베이스에 간단하게 저장 국현
 Request Mapping을 이용한 URL에 따른 handler를 찾아 Qr정보입력, 수정 다운로드가 자유롭게 가능하게 구현 
 Spring Validation을 이용한 Parameter Validation으로 필수정보입력 검증 구현
 # 기획의도
