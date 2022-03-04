@@ -7,9 +7,11 @@
 
 # 본인 파트 : 
 * Zxing Qr open api를 이용한 MVC패턴 QR 생성기구현 
-* Mybatis를 이용한 ORM 객체 관계형 데이터 베이스 Mapping으로 사용자가 Qr에 입력한 정보를 데이터베이스에 간단하게 저장 국현
-Request Mapping을 이용한 URL에 따른 handler를 찾아 Qr정보입력, 수정 다운로드가 자유롭게 가능하게 구현 
-Spring Validation을 이용한 Parameter Validation으로 필수정보입력 검증 구현
+* Mybatis를 이용한 ORM 객체 관계형 데이터 베이스 Mapping으로 사용자가 Qr에 입력한 정보를 데이터베이스에 간단하게 저장 구현
+* Request Mapping을 이용한 URL에 따른 handler를 찾아 Qr정보입력, 수정 다운로드가 자유롭게 가능하게 구현 
+* Spring Validation을 이용한 Parameter Validation으로 필수정보입력 검증 구현
+* 전체 스키마 구성
+
 # 기획의도
 ![image](https://user-images.githubusercontent.com/90361160/154867546-8cac43e8-982e-48ba-b856-53dfe2ab5b15.png)
 점차 늘어나는 치매 걸리신 부모님, 국가 미래인 어린 아이들, 이제는 가족이라 말할 수있는 반려동물들... 우리의 소중한 가족들이 실종되도 바로 찾을 수 있게 누구나 만들 수 있는 
